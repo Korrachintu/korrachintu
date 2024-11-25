@@ -1,4 +1,10 @@
-## Hi there 👋
+I'm **Korra Chintu**, an MCA graduate with expertise in:
+- 🖥️ Front-end Development: HTML, CSS, JavaScript
+- 🐍 Python Programming
+- 🗄️ Database Management: MySQL, MongoDB
+
+🌟 Always learning and growing in the tech world.
+
 
 <!--
 **Korrachintu/korrachintu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
